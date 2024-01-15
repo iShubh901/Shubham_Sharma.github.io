@@ -1,10 +1,10 @@
-## About Me
+### About Me
 
 Experienced marketing strategist with a proven track record of delivering impactful campaigns that drive business growth. Specializing in digital marketing, I help brands connect with their target audience and exceed their marketing objectives. From crafting compelling content to optimizing ad spend, I thrive on generating measurable results. Let's collaborate to bring your brand to the forefront of your industry. <br/>
 
 ---
 
-### Top Skill Set
+## Top Skill Set
 
 • Marketing Strategy<br/>
 • Online Advertising<br/>
@@ -14,7 +14,7 @@ Experienced marketing strategist with a proven track record of delivering impact
 
 ---
 
-### Experiences
+## Experiences
 
 - Direct Objective Consulting at Marketing Coordinator/Coordinateur Marketing<br/>
 Dec 2022 - Present, Montreal Quebec<br/>
@@ -67,7 +67,7 @@ Skills: Data Analysis<br/>
 
 ---
 
-### Education
+## Education
 
 - MSc Marketing from Concordia University, Montreal<br/>
 Sept 2022 - Present<br/>
@@ -79,7 +79,7 @@ Sept 2022 - Present<br/>
 
 ---
 
-### Licenses & certifications
+## Licenses & certifications
 
 - Ultimate Google Analytics (4) course + 50 practical examples<br/>
 Udemy<br/>
@@ -132,7 +132,7 @@ Indian Institute of Management Kashipur<br/>
 
 ---
 
-### Honors & awards
+## Honors & awards
 
 - Star of the Month- Social Media<br/>
 Issued by MyMoneyMantra · Jun 2020<br/><br/>
@@ -149,10 +149,3 @@ Issued by MyMoneyMantra · May 2019<br/>
 Awarded for best performance on Social Media Platforms to bring exclusive traffic to the website with engaging and productive content.<br/>
 
 ---
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
