@@ -1,3 +1,7 @@
+MSc Marketing, Concordia University - Sept 2022 to Present
+
+---
+
 ## About Me
 
 Experienced marketing strategist with a proven track record of delivering impactful campaigns that drive business growth. Specializing in digital marketing, I help brands connect with their target audience and exceed their marketing objectives. From crafting compelling content to optimizing ad spend, I thrive on generating measurable results. Let's collaborate to bring your brand to the forefront of your industry. <br/>
